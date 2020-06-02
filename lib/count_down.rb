@@ -1,4 +1,5 @@
 count = 10
-while count < 10 do
-  puts "count -="
+while count > 10 do
+  
+ count -="
 end
